@@ -1,5 +1,5 @@
 {
-  "name": "profunctors",
+  "name": "profunctor-examples",
   "ignore": [
     "**/.*",
     "node_modules",
@@ -7,16 +7,14 @@
     "output"
   ],
   "dependencies": {
-    "purescript-prelude": "^3.3.0",
-    "purescript-console": "^3.0.0",
-    "purescript-profunctor": "^3.2.0",
-    "purescript-strings": "^3.5.0",
-    "purescript-yarn": "^3.0.1",
-    "purescript-unsafe-coerce": "^3.0.0",
-    "purescript-contravariant": "^3.2.0",
-    "purescript-integers": "^3.2.0"
+    "purescript-prelude": "^4.0.0",
+    "purescript-console": "^4.0.0",
+    "purescript-profunctor": "^4.0.0",
+    "purescript-strings": "^4.0.0",
+    "purescript-contravariant": "^4.0.0",
+    "purescript-integers": "^4.0.0"
   },
   "devDependencies": {
-    "purescript-psci-support": "^3.0.0"
+    "purescript-psci-support": "^4.0.0"
   }
 }

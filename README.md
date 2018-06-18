@@ -1,12 +1,13 @@
 # Fun with Profunctors in PureScript
-
 Use case examples of ProFunctors that I found from Haskell and ported to PureScript. 
 
 ## Quick Start
-Ensure you have installed bower, pulp, and the latest version of PureScript.  Then:
+Ensure you have installed the lastest versions of rimraf, Psc-package, Pulp, PureScript (^0.12).  Then:
 
-* bower i
-* pulp run
+$ npm run all
+
+Then, run `$ npm run exec` afterwards.  There's also Bower support if you so like.  Enjoy!
+
 
 ## References:
 
